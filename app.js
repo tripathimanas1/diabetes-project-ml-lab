@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="title">Welcome to IIEST Diagnostic Centre</h1>
+      <h1 className="title">Welcome to IIEST Diabetes Diagnostic Centre</h1>
       <h2 className="subheading">Please enter the details below:</h2>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
